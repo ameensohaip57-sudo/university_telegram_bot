@@ -1101,6 +1101,3 @@ def main():
     # بدء البوت
     logger.info("البوت يعمل الآن...")
     application.run_polling()
-
-if _name_ == '_main_':
-    main()
